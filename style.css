@@ -1,0 +1,59 @@
+body {
+    background-image: url(imagens/Imagem\ do\ WhatsApp\ de\ 2023-09-10\ à\(s\)\ 00.07.00.jpg);
+    background-size: cover; 
+    
+}
+body {
+    padding-right: 100px;
+    padding-left: 150px;
+    padding-bottom: 500px;
+    
+}
+
+ul {
+    border: 1px sold darkblue;
+    padding: 10px;
+}
+
+li {
+    color:dodgerblue
+}
+
+h4 { 
+    color: gray;
+}
+
+.desc {
+    color: rgb(11, 179, 216);
+    background-color: black;
+}
+/* classes podem ser repetidas */
+
+#h1ex {
+    color: rgb(255, 255, 255);
+    color-scheme: red;
+    background-image: url(imagens/fundo\ lua.jpg);
+    padding: 10px;
+}
+/* ids nao podem se repetir */
+
+.color {
+    color: rgb(8, 130, 149)
+}
+
+.rgba {
+    color: rgb(178, 34, 34,0.2);
+}
+
+.ncentral {
+    height: 300px;
+    width: 400px;
+    background-image: url(imagens/fundo\ lua.jpg);
+}
+
+.central {
+    background-image: url(imagens/fundo\ lua.jpg);
+    background-position: center;
+    height: 300px;
+    width: 400px;
+}
